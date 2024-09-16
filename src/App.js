@@ -11,7 +11,7 @@ function App() {
         </p>
         <div>
           <h2>Project Overview</h2>
-          <p>This project involves setting up a CI/CD pipeline using Jenkins, Docker, and Kubernetes.</p>
+          <p>This project involves setting up a CI/CD pipeline.</p>
         </div>
       </header>
     </div>
